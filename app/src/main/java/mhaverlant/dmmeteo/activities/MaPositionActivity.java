@@ -72,7 +72,9 @@ public class MaPositionActivity extends ActionBarActivity {
 
             @Override
             public void onLocationChanged(Location locs) {
+                Maposition = new ArrayList<MeteoVille>();
                 lanceJSON("MaPosition",locs.getLatitude()+","+locs.getLongitude());
+                 
             }
 
             @Override
