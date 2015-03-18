@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" tools:context=".AcceuilActivity">
+    <item android:id="@+id/action_settings" android:title="Setting"
+        android:orderInCategory="100" app:showAsAction="never" />
+    <item  android:id="@+id/Acceuil" android:title="Acceuil"
+        android:orderInCategory="100" app:showAsAction="never" />
+    <item  android:id="@+id/Favoris" android:title="Favoris"
+        android:orderInCategory="100" app:showAsAction="never" />
+    <item  android:id="@+id/MaPosition" android:title="Ma Position"
+        android:orderInCategory="100" app:showAsAction="never" />
+</menu>

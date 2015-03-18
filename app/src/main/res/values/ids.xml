@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="Acceuil" type="id">Acceuil</item>
+    <item name="MaPosition" type="id">Ma Position</item>
+    <item name="Favoris" type="id">Favoris</item>
+    <item name="button1" type="id" />
+</resources>
